@@ -1,0 +1,47 @@
+.wrapper {
+  height: 400px;
+}
+
+h1 {
+  margin-left: 70px;
+}
+
+.movie1 {
+  background-image: url(../../public/image3.webp);
+}
+.movie2 {
+  background-image: url(../../public/image3.webp);
+}
+.movie3 {
+  background-image: url(../../public/image3.webp);
+}
+.food1 {
+  background-image: url(../../public/food1.jpg);
+}
+.food2 {
+  background-image: url(../../public/food2.jpg);
+}
+.food3 {
+  background-image: url(../../public/food3.jpg);
+}
+.game1 {
+  background-image: url(../../public/game1.png);
+}
+.game2 {
+  background-image: url(../../public/game1.png);
+}
+.game3 {
+  background-image: url(../../public/game1.png);
+}
+.foodb {
+  background-color: rgba(78, 10, 10, 0.6);
+  color: rgb(255, 255, 255);
+}
+.movieb {
+  background-color: rgba(0, 198, 188, 0.2);
+  color: rgb(255, 255, 255);
+}
+.gameb {
+  background-color: rgba(81, 4, 59, 0.6);
+  color: rgb(255, 255, 255);
+}
