@@ -20,11 +20,11 @@ function AppMovie() {
                   <div class="card-body movieb">
                     <h5 class="card-title">Anime</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Anime. Action-packed adventures, offbeat comedies,
+                      inspirational stories
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -35,11 +35,11 @@ function AppMovie() {
                   <div class="card-body movieb">
                     <h5 class="card-title">Series</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      A set of related television or radio programs, especially
+                      of a specified kind.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -49,12 +49,12 @@ function AppMovie() {
                   {/* <img src={image1} alt="image1" /> */}
                   <div class="card-body movieb">
                     <h5 class="card-title">Movies</h5>
-                    <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                    <p class="card-text ">
+                      Movies move us like nothing else can, whether they're
+                      scary, funny, dramatic or anywhere in-between.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -80,11 +80,11 @@ function AppMovie() {
                   <div class="card-body foodb">
                     <h5 class="card-title">Samgyupsalamat</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Samgyeopsal, samgyeopsal-gui, or grilled pork belly is a
+                      type of gui in Korean cuisine.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -95,11 +95,11 @@ function AppMovie() {
                   <div class="card-body foodb">
                     <h5 class="card-title">Pares</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Is a term for a serving of Filipino braised beef stew with
+                      garlic fried rice, and a bowl of clear soup.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -110,11 +110,11 @@ function AppMovie() {
                   <div class="card-body foodb">
                     <h5 class="card-title">Street Foods</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Ready-to-eat food or drink sold by a vendor, in a street
+                      or at other public places, such as markets or fairs.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -140,11 +140,11 @@ function AppMovie() {
                   <div class="card-body gameb">
                     <h5 class="card-title">Ragnarok Mobile</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Is an open world MMORPG based on the ever famous Ragnarok
+                      Online. Become a Guild leader.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -155,11 +155,11 @@ function AppMovie() {
                   <div class="card-body gameb">
                     <h5 class="card-title">Dota 2</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Dota 2 is a 2013 multiplayer online battle arena video
+                      game developed and published by Valve.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
@@ -170,11 +170,11 @@ function AppMovie() {
                   <div class="card-body gameb">
                     <h5 class="card-title">Chess</h5>
                     <p class="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
+                      Chess is a board game played between two players. Become a
+                      varsity in our school.
                     </p>
                     <a href="google.com" class="btn btn-primary">
-                      Go somewhere
+                      Read More
                     </a>
                   </div>
                 </div>
