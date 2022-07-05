@@ -1,0 +1,19 @@
+.container1 {
+  height: 100px;
+  width: 350px;
+  border: 2;
+  border-color: blue;
+  display: flex;
+}
+
+.imgSize {
+  width: 120px;
+  background-color: antiquewhite;
+  margin-right: 4px;
+}
+
+.title {
+  font-size: large;
+  font-weight: bold;
+  marign: 0;
+}

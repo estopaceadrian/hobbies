@@ -6,10 +6,14 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import AppHobbies from './AppHobbies/AppHobbies';
 import AppFooter from './AppFooter/AppFooter';
+import AppTest from './AppTest/AppTest';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <AppTest />
+    <AppTest />
+    <AppTest />
     <App />
     <AppHobbies />
     <AppFooter />
