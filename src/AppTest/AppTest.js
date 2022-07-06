@@ -3,18 +3,43 @@ import imge from './bg.png';
 import React, { Component } from 'react';
 
 export default class AppTest extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      status: true,
+    };
+  }
+
   render() {
     return (
-      <div class="container1 border border-primary">
-        <div class="imgSize">
-          <img src={imge} class="imgSize" alt="imge" />
+      <div className="container1 border border-primary mb-3">
+        <div className="imgSize">
+          <img src={imge} className="imgSize" alt="imge" />
         </div>
-        <div class="d-flex flex-column">
+        <div className="d-flex flex-column">
           <div>
-            <p class="title">Adrian Estopace</p>
+            <p className="title">{this.props.name}</p>
           </div>
           <div>
-            <p class="comment">Noooo</p>
+            <p className="comment">{this.props.comment}</p>
+          </div>
+          <div className="d-flex ">
+            <span
+              className="btn btn-primary "
+              onClick={() => {
+                this.setState({ status: !this.state.status });
+              }}
+            >
+              {this.state.status ? <span>Like</span> : <span>Unlike</span>}
+            </span>
+            <span
+              onClick={() => {
+                this.setState({ status: !this.state.status });
+              }}
+            >
+              <div className="img"></div>
+              yea
+            </span>
           </div>
         </div>
       </div>

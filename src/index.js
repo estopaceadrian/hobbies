@@ -11,9 +11,9 @@ import AppTest from './AppTest/AppTest';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <AppTest />
-    <AppTest />
-    <AppTest />
+    <AppTest name="adrian" comment="can i get a hoooya!" />
+    <AppTest name="estopace" comment="hooooooyaa!!" />
+    <AppTest name="test1" comment="oooh yea" />
     <App />
     <AppHobbies />
     <AppFooter />
